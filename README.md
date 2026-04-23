@@ -1,4 +1,4 @@
-# Hi, I'm Jack Wu
+# Hi, I'm ChiYuan(Jack) Wu
 
 MS in Business Analytics (Finance concentration) at Suffolk University, with a background in Chemical Engineering and experience in data analysis, predictive modeling, and business problem-solving.
 
