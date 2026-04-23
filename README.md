@@ -32,3 +32,4 @@ I am currently seeking full-time opportunities in:
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/chiyuanjackwu/?locale=en-US
 - Email: 7yuan0803@gmail.com
+- Resume: [Resume PDF](https://github.com/7yuan0803/CV/blob/main/Resume_Jack_Wu.pdf)
